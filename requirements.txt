@@ -1,0 +1,22 @@
+python 3.11
+pyttsx3 - (python text-to-speech version 3)
+gTTS - (Google Text-to-Speech)
+playsound
+os - Used to interact with built-in software 
+nltk
+datetime
+BeautifulSoup
+calendar
+random
+pyautogui
+wikipedia
+webbrowser
+ctypes
+winshell
+subprocess
+pyjokes
+smtplib
+requests
+json
+selenium
+wolframalpha
