@@ -503,7 +503,7 @@ while True:
             elif " world news" in text:
                 url = ('https://newsapi.org/v2/top-headlines?'
                        'country=us&'
-                       'apiKey=ff2b18b364a3473d9831159d8ecfce37')
+                       'apiKey= ur's api key')
                 try:
                          response = requests.get(url)
                 except:
